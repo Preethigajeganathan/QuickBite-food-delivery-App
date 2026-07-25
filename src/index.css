@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@keyframes shineEvery10s {
+  0%,
+  70% {
+    transform: translateX(-200%) skewX(-25deg);
+  }
+
+  100% {
+    transform: translateX(400%) skewX(-25deg);
+  }
+}
+
+.animate-shine-delay {
+  animation: shineEvery10s 5s linear infinite;
+}
