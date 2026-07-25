@@ -4,6 +4,12 @@ QuickBite is a responsive food delivery web application built with **React.js**,
 
 ---
 
+## 🌐 Live Demo
+
+🔗**Link:** **https://quick-bite-food-delivery-app-tau.vercel.app/**
+
+---
+
 ## 📁 Project Structure
 
 ```
